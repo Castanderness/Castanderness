@@ -2,20 +2,29 @@
 
 ## What I Build
 
-- **AI Telegram Bots** (Claude/ChatGPT) — $49+
-- **Booking/Appointment Bots** — $79+
-- **Crypto Price Alerts** — $59+
-- **Web Scrapers** → CSV/Excel — $35+
-- **Excel Automation** Scripts — $29+
+| Service | Price | Delivery |
+|---------|-------|----------|
+| AI Telegram Bot (Claude/ChatGPT) | from $49 | 2-3 days |
+| Booking/Appointment Bot | from $79 | 3-5 days |
+| Crypto Price Alert Bot | from $59 | 2-3 days |
+| Auto-Posting Channel Bot | from $49 | 2-3 days |
+| Web Scraper → CSV/Excel | from $35 | 1-2 days |
+| Price Monitor (Avito, etc.) | from $39 | 2-3 days |
 
 ## Portfolio
 
-**Live Portfolio:** https://castanderness.github.io/telegram-bots-portfolio/portfolio/
+**9 production bots, full open source:**
+→ [telegram-bots-portfolio](https://github.com/Castanderness/telegram-bots-portfolio)
 
-**All Code (9 bots, open source):** https://github.com/Castanderness/telegram-bots-portfolio
+**Live demos & screenshots:**
+→ https://castanderness.github.io/telegram-bots-portfolio/portfolio/
+
+## Stack
+
+Python 3.12 · aiogram 3 · SQLite · Claude/ChatGPT API · CoinGecko API
 
 ## Hire Me
 
-2-5 day delivery | Clean Python code | 7-day support
+Available on **Fiverr**, **FL.ru**, **Freelancer** or direct contact.
 
-*Open for freelance projects on Fiverr, Freelancer, direct contact*
+Clean code · 7-day support included · Delivery as promised
